@@ -72,3 +72,6 @@ plt.plot(model_fit.history['val_accuracy'], label='val acc')
 plt.legend()
 plt.show()
 plt.savefig('AccVal_acc')
+
+# Save the model in h5 format
+model.save('model.h5')
