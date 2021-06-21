@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+PIL
+opencv
+numpy
+Flask
+flask-ngrok
+gevent
