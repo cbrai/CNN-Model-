@@ -6,8 +6,7 @@ Be ready with your libraries installed which I have already mentioned in require
 Steps to create your own Model
 Step1: Create two folders of each class i.e. (in my case it was birds and drones) but you can create any class,
 Step2: Create two folders named as training and validation and add photos in 9:1 ratio in both the folders of each class
-
-# So basically your directories should look like 
+So basically your directories should look like 
 root_folder/training/birds/imgaes
 root_folder/training/drones/imgaes
 Step3: Now train the model 
